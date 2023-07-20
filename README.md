@@ -1,10 +1,6 @@
 # JBNU-Depth360
 
-Accurate depth estimation is important in various scenarios, including both road driving and parking. 
-This significance becomes pronounced within parking environments, which are characterized by the close proximity to adjacent vehicles and the presence of blind spots, such as the rear of the vehicle. However, the existing datasets for depth estimation are primarily concentrated on road driving scenarios. 
-Therefore, it is not clear whether the models learned from these datasets perform well in parking environments. 
-
-Hence, we propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. 
+we propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. 
 For the data collection, we construct a mobile robot, utilizing AGX Xavier and Jackal UGV as the foundational components. 
 Specifically, the mobile robot is equipped with four $183^{\circ}$ Fisheye M12 lenses, positioned in the front, rear, left, and right directions, respectively.
 Additionally, a LiDAR sensor, Ouster GEN2 OS-0-32, is centrally located on the robot. Subsequently, to align the LiDAR point cloud with the RGB image, a calibration process is performed by utilizing a checkerboard to calibrate the front camera and the LiDAR system. 
