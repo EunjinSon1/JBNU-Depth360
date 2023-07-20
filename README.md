@@ -11,3 +11,18 @@ Additionally, a LiDAR sensor, Ouster GEN2 OS-0-32, is centrally located on the r
 
 The JBNU-Depth360 dataset is obtained within the underground parking lot located at Jeonbuk National University in Korea.
 Specifically, the mobile robot collects data by starting its trajectory from the entrance of the parking lot, moving along the interior, and returning to the initial starting point. The dataset comprises 4,221 RGB images captured by a front camera, with a resolution of 1080x1920 pixels, and the corresponding LiDAR points. For the experiment, we obtain depth maps with the same resolution as the RGB images by projecting 3D LiDAR points onto a 2D plane.
+
+You can download the JBNU-Depth360 data in [Google Drive](link)
+
+```bash
+├── data
+│   ├── train
+│   ├── test
+│   └── validation
+├── code
+│   ├── train.py
+│   ├── classify.py
+│   ├── model.py
+│   └── dataset.py
+└── run.sh
+``` 
