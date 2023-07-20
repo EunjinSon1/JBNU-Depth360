@@ -1,4 +1,7 @@
 # JBNU-Depth360
+<p align="center"><img src = "![JBNU_Depth360](https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/0ba8490a-5cb7-445e-b183-8aa52b7999b3)
+" width="30%" height="30%"></p>
+
 
 we propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. 
 For the data collection, we construct a mobile robot, utilizing AGX Xavier and Jackal UGV as the foundational components. 
@@ -26,6 +29,5 @@ The full dataset comprises RGB images and LiDAR point clouds, which are structur
 ```
 
 
-
 # Sensor Locations
-<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/427bb9c2-b842-408c-a691-e3295169d81b" width="30%" height="30%"></p>
+<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/0fcb94fe-d575-442f-82a6-f8eb24c5f7b1" width="30%" height="30%"></p>
