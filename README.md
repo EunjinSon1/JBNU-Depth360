@@ -1,7 +1,7 @@
 # JBNU-Depth360
 <p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/0e67c1fb-4d5e-44ad-bcc8-cad9392743d5" width="70%" height="70%"></p>
 
-we propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. 
+We propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. 
 For the data collection, we construct a mobile robot, utilizing AGX Xavier and Jackal UGV as the foundational components. 
 Specifically, the mobile robot is equipped with four 183˚ Fisheye M12 lenses, positioned in the front, rear, left, and right directions, respectively.
 Additionally, a LiDAR sensor, Ouster GEN2 OS-0-32, is centrally located on the robot. Subsequently, to align the LiDAR point cloud with the RGB image, a calibration process is performed by utilizing a checkerboard to calibrate the front camera and the LiDAR system. 
