@@ -32,5 +32,5 @@ The full dataset including RGB image, LiDAR point cloud as follows, where {seq:0
 
 
 # Sensor Locations
-![robot_full2](https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/1e1a4baa-de43-4f83-b795-f44e4b544632){: width="50%" height="50%"}
+![robot_full2](https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/1e1a4baa-de43-4f83-b795-f44e4b544632){: width="300" height="300"){: .center}
 
