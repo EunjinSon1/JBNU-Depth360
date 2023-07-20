@@ -13,7 +13,7 @@ You can download the JBNU-Depth360 data in [[GoogleDrive](https://drive.google.c
 
 
 
-# Floder Structure
+# Folder Structure
 Our dataset is divided into 6 individual sequences, each corresponding to a continuous driving trajectory. 
 The full dataset comprises RGB images and LiDAR point clouds, which are structured as follows: The sequence ID is denoted by {seq:0>1}, using a single digit, and the frame ID is denoted by {seq:0>6}, using 6 digits. 
 
