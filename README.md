@@ -1,5 +1,5 @@
 # JBNU-Depth360
-<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/9c19ff6b-532e-4b3f-bd18-bd138c65b0c4" width="30%" height="30%"></p>
+<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/9c19ff6b-532e-4b3f-bd18-bd138c65b0c4" width="40%" height="40%"></p>
 
 
 
