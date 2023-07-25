@@ -28,4 +28,4 @@ The full dataset comprises RGB images and LiDAR point clouds, which are structur
 
 
 # Sensor Locations
-<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/b6194965-a88b-42a0-acb0-09743b446ed0" width="30%" height="30%"></p>
+<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/99a2cf29-f66b-4b9f-be49-e7fe1c729754" width="30%" height="30%"></p>
