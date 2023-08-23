@@ -9,7 +9,7 @@ Specifically, the mobile robot is equipped with four NileCAM21 cameras, each of 
 The JBNU-Depth360 dataset is obtained within the underground parking lot located at Jeonbuk National University in Korea.
 Specifically, the mobile robot collects data by starting its trajectory from the entrance of the parking lot, moving along the interior, and returning to the initial starting point. The dataset comprises 4,221 RGB images captured by a front camera, each with a resolution of 1080 × 1920 pixels, and their corresponding LiDAR points. To protect privacy, the RGB images anonymized.
 
-You can download the JBNU-Depth360 data in [[GoogleDrive](https://drive.google.com/drive/u/3/my-drive)]
+You can download the JBNU-Depth360 data in [[GoogleDrive](https://drive.google.com/file/d/1jrqScsIgzD7-e0BHgZKsgJDrVQ1IzFSW/view?usp=drive_link)]
 
 
 # Folder Structure
