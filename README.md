@@ -22,7 +22,8 @@ The full dataset comprises RGB images and LiDAR point clouds, which are structur
 
 
 # Sensor configuration
-<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/55e65384-9f0e-4c02-8257-f519a01a76d9" width="30%" height="30%"></p>
+<p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/55e65384-9f0e-4c02-8257-f519a01a76d9" width="70%" height="70%"></p>
+
 The sensor configuration (left, middle) and top-view image (right) of the mobile robot used for collecting the JBNU-Depth360 dataset. We constructed a mobile robot which equips an AGX Xavier on a Jackal UGV. An Ouster GEN2 OS-0-32 is located at the center of the robot to acquire the LiDAR projections of surrounding environments, and four NileCAM21 cameras with a 183-degree Fisheye M12 lens are equipped in the front, rear, left, and right directions. In the top-view image, LiDAR and camera positions are highlighted in red and blue, respectively.
 
 
