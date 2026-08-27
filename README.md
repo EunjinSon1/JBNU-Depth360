@@ -22,7 +22,7 @@ The full dataset comprises RGB images, depth maps, and LiDAR point clouds, which
             └── {frame:0>6}.tiff
 └── project_test.py # Python example for projecting LiDAR points to the image plane
 ```
-
+Please refer to `project_test.py` for the calibration parameters.
 
 # Sensor configuration
 <p align="center"><img src = "https://github.com/EunjinSon1/JBNU-Depth360/assets/139856699/55e65384-9f0e-4c02-8257-f519a01a76d9" width="70%" height="70%"></p>
