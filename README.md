@@ -4,20 +4,23 @@
 
 We propose a novel fisheye dataset for depth estimation, named JBNU-Depth360, designed for underground parking lot environments. The JBNU-Depth360 dataset was acquired from underground parking lot environments located in Jeonbuk National University, South Korea. The dataset comprises 4,221 RGB images captured by a front camera, each with a resolution of 1080 × 1920 pixels, and their corresponding LiDAR points. To protect privacy, the RGB images anonymized.
 
-You can download the JBNU-Depth360 data in [[GoogleDrive](https://drive.google.com/file/d/1jrqScsIgzD7-e0BHgZKsgJDrVQ1IzFSW/view?usp=drive_link)]
+You can download the JBNU-Depth360 data in [[GoogleDrive](https://drive.google.com/file/d/1lcIC3oeJezoxZ_ihLomHhchGpGeOKVkz/view?usp=sharing)]
 
 
 # Folder Structure
 Our dataset is divided into 6 individual sequences, each corresponding to a continuous driving trajectory. 
-The full dataset comprises RGB images and LiDAR point clouds, which are structured as follows: The sequence ID is denoted by {seq:0>1}, using a single digit, and the frame ID is denoted by {seq:0>6}, using 6 digits. 
+The full dataset comprises RGB images, depth maps, and LiDAR point clouds, which are structured as follows: The sequence ID is denoted by {seq:0>1}, using a single digit, and the frame ID is denoted by {seq:0>6}, using 6 digits. 
 
 ```bash
-└── 230329
+├── JBNU_Depth360
     └── test_{seq:0>1}
         ├── bin
         │   └── {frame:0>6}.bin
-        └── image
-            └── {frame:0>6}.png
+        ├── image
+        │   └── {frame:0>6}.png
+        └── depth
+            └── {frame:0>6}.tiff
+└── project_test.py # Python example for projecting LiDAR points to the image plane
 ```
 
 
